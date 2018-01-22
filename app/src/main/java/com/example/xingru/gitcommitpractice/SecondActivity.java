@@ -7,4 +7,5 @@ package com.example.xingru.gitcommitpractice;
 public class SecondActivity {
     //master
     //developer_two
+    //developer_three
 }
