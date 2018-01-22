@@ -8,4 +8,5 @@ public class SecondActivity {
     //master
     //developer_two
     //developer_three
+    int i=0;
 }
