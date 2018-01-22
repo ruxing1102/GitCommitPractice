@@ -5,10 +5,6 @@ package com.example.xingru.gitcommitpractice;
  */
 
 public class SecondActivity {
-<<<<<<< HEAD
     //master
-=======
-
     //developer_two
->>>>>>> developer_two
 }
