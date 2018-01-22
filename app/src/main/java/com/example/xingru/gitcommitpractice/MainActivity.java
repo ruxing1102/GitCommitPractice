@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //master
         //developer_two
         //developer_three
-        int i=1;
+        int i=0;
     }
 }
