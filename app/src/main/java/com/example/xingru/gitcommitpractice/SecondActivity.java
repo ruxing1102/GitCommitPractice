@@ -6,4 +6,5 @@ package com.example.xingru.gitcommitpractice;
 
 public class SecondActivity {
     //master分支
+    //developer_two分支的第二次提交
 }
