@@ -5,4 +5,5 @@ package com.example.xingru.gitcommitpractice;
  */
 
 public class SecondActivity {
+    //master
 }
