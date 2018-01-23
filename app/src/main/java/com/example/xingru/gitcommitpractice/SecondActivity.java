@@ -6,6 +6,6 @@ package com.example.xingru.gitcommitpractice;
 
 public class SecondActivity {
 
-    int i=0;//master
+    int i=1;//developer_one
 
 }
